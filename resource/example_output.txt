@@ -1,0 +1,118 @@
+{
+    "analysts": ["Rogerio  Araujo", "Gabriel Frazao"],
+    "asset_class": "Equity",
+    "asset_type": "Stock",
+    "bank": "BAML",
+    "focus_value": "SectorIndustry",
+    "mime_type": "application/pdf",
+    "org_details": {
+        "OrganizationName": "Bank of America Merrill Lynch",
+        "OrganizationType": "SellSideFirm",
+        "People": [
+            {
+                "CountryCode": "55",
+                "Email": "rogerio.araujo@bofa.com",
+                "FamilyName": "Araujo",
+                "GivenName": "Rogerio",
+                "JobRole": "Research Analyst",
+                "PersonID": "303643",
+                "PhoneNumber": "11 2188 4255",
+            },
+            {
+                "CountryCode": "55",
+                "Email": "gabriel.frazao@bofa.com",
+                "FamilyName": "Frazao",
+                "GivenName": "Gabriel",
+                "JobRole": "Research Analyst",
+                "PersonID": "303612",
+                "PhoneNumber": "11 2188 4252",
+            },
+        ],
+    },
+    "primary_analyst": "Rogerio\n\t\t\t\t\t\t\t \n\t\t\t\t\t\t\t\tAraujo",
+    "primary_analyst_email": "rogerio.araujo@bofa.com",
+    "primary_region": "LatinAmerica",
+    "product_category_value": "Comment",
+    "publication_datetime": "2023-09-27T10:07:17Z",
+    "region_data": [{"primaryIndicator": "Yes", "regionType": "LatinAmerica"}],
+    "regions": '[{"regionType": "LatinAmerica", "primaryIndicator": "Yes"}]',
+    "sector_data": [
+        {
+            "classificationType": "GICS",
+            "code": "20302010",
+            "focusLevel": "No",
+            "level": "4",
+            "name": "Passenger Airlines",
+            "primaryIndicator": "No",
+        }
+    ],
+    "sector_id": "20302010",
+    "securities": [
+        {
+            "AssetClass": "Equity",
+            "AssetType": "Stock",
+            "SecurityID_CUSIP": "05501U106",
+            "SecurityID_RIC": "AZUL.N",
+            "SecurityID_SEDOL": "BDCT500",
+            "SecurityName": "Azul SA",
+        },
+        {
+            "AssetClass": "Equity",
+            "AssetType": "Stock",
+            "SecurityID_CUSIP": "P0R0AQ105",
+            "SecurityID_RIC": "AZUL4.SA",
+            "SecurityID_SEDOL": "BD97PR4",
+            "SecurityName": "Azul SA",
+        },
+        {
+            "AssetClass": "Equity",
+            "AssetType": "Stock",
+            "SecurityID_CUSIP": "P31076105",
+            "SecurityID_RIC": "CPA.N",
+            "SecurityID_SEDOL": "B0TNJH9",
+            "SecurityName": "Copa Holdings SA",
+        },
+        {
+            "AssetClass": "Equity",
+            "AssetType": "Stock",
+            "SecurityID_CUSIP": "38045R206",
+            "SecurityID_RIC": "GOL.N",
+            "SecurityID_SEDOL": "BYNNSR6",
+            "SecurityName": "Gol Linhas Aereas Inteligentes S.A.",
+        },
+        {
+            "AssetClass": "Equity",
+            "AssetType": "Stock",
+            "SecurityID_CUSIP": "P491AF117",
+            "SecurityID_RIC": "GOLL4.SA",
+            "SecurityID_SEDOL": "B01NTS8",
+            "SecurityName": "Gol Linhas Aereas Inteligentes S.A.",
+        },
+        {
+            "AssetClass": "Equity",
+            "AssetType": "Stock",
+            "SecurityID_CUSIP": "P30987104",
+            "SecurityID_RIC": "VOLARA.MX",
+            "SecurityID_SEDOL": "BDZDPH6",
+            "SecurityName": "Controladora Vuela Cia de Aviacion SAB de " "CV",
+        },
+        {
+            "AssetClass": "Equity",
+            "AssetType": "Stock",
+            "SecurityID_CUSIP": "21240E105",
+            "SecurityID_RIC": "VLRS.N",
+            "SecurityID_SEDOL": "BDD8L75",
+            "SecurityName": "Controladora Vuela Cia de Aviacion SAB de " "CV",
+        },
+    ],
+    "subject": "Price Objective Change",
+    "synopsis": "We think the market has fairly priced in lower margins due to "
+    "jet fuel price expansion. We lower POs and reiterate ratings. "
+    "Volaris shares is down -55% since a peak last June, affected by "
+    "oil and P&W engine recalls (affecting 52% of its fleet). The "
+    "latest should be partially offset by P&W compensation and higher "
+    "yields (see sensitivity analysis on Exhibit 5).",
+    "title": "LatAm Airlines: Tough times as fuel price surges. We cut our POs & "
+    "estimates, reiterate ratings",
+    "url": "https://rsch.baml.com/r?q=UTpSOeOWHuYgdQQ!tWHD5w__",
+}

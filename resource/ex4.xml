@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Research xmlns="http://www.rixml.org/2005/3/RIXML" researchID="c523eb8e-7fc3-11ee-8952-7bd1efab7f8a" language="eng" createDateTime="2023-11-10T12:24:36Z">
+<Product productID="c523eb8e-7fc3-11ee-8952-7bd1efab7f8a" eventIndicator="No">
+<StatusInfo statusType="Published" statusDateTime="2023-11-10T12:24:40Z" currentStatusIndicator="Yes">
+<Version>1</Version>
+</StatusInfo>
+<Source>
+<Organization primaryIndicator="Yes" type="SellSideFirm">
+<OrganizationID idType="MS">3628514D-38C5-4d79-97FB-EED11D3B0FFE</OrganizationID>
+<OrganizationName nameType="Legal">Morgan Stanley &amp; Co. LLC</OrganizationName>
+<PersonGroup>
+<PersonGroupMember sequence="1" primaryIndicator="Yes">
+<Person personID="75e4ad86-9cee-458b-83c2-8fa71ba43bb6">
+<FamilyName>Grechi</FamilyName>
+<GivenName>Francesco</GivenName>
+<DisplayName>Francesco Grechi</DisplayName>
+<JobTitle>Strategist</JobTitle>
+<Division>Morgan Stanley Research</Division>
+<ContactInfo nature="Business">
+<Email>Francesco.Grechi@morganstanley.com</Email>
+<Phone type="Voice" location="Office">
+<CountryCode>+1</CountryCode>
+<Number>212 761-1009</Number>
+</Phone>
+</ContactInfo>
+</Person>
+</PersonGroupMember>
+<PersonGroupMember sequence="2" primaryIndicator="No">
+<Person personID="1012d4e8-f4b7-42c0-ae3a-8fa71ba43bb6">
+<FamilyName>Liu</FamilyName>
+<GivenName>Allen</GivenName>
+<DisplayName>Allen F Liu</DisplayName>
+<JobTitle>Strategist</JobTitle>
+<Division>Morgan Stanley Research</Division>
+<ContactInfo nature="Business">
+<Email>Allen.Liu@morganstanley.com</Email>
+<Phone type="Voice" location="Office">
+<CountryCode>+1</CountryCode>
+<Number>212 761-6049</Number>
+</Phone>
+</ContactInfo>
+</Person>
+</PersonGroupMember>
+</PersonGroup>
+</Organization>
+<Organization primaryIndicator="No" type="SellSideFirm">
+<OrganizationID idType="Reuters">3926</OrganizationID>
+<OrganizationName nameType="Display">Morgan Stanley &amp; Co. LLC</OrganizationName>
+</Organization>
+</Source>
+<Content>
+<Title>Global Macro Data: Daily Data Update</Title>
+<Abstract>Please use the links in the email below to access each data report. 
+US Liquid Rates TrackerThe US Liquid Rates Tracker provides detail on the US Treasury Nominal curve, STRIPS, and  TIPS.Treasury &amp; TIPS Summary (Excel version)The excel version of US Liquid Rates Tracker provides a downloadable spreadsheet for US Treasury Nominal curve and TIPS bonds.Treasury Relative Value ReportThe Treasury Relative Value Report provides detail beyond the Liquid Rates Tracker on the nominal Treasury curve, comparing bonds across several relative value metrics.US Bond FuturesWe determine a model value for the two front 2y note, 5y note, 10y note and 30y bond futures contracts. We use this to indicate how rich or cheap the contract is trading. Additionally, we determine the DV01 of the contract.</Abstract>
+<Synopsis>Please use the links in the email below to access each data report. 
+US Liquid Rates TrackerThe US Liquid Rates Tracker provides detail on the US Treasury Nominal curve, STRIPS, and  TIPS.Treasury &amp; TIPS Summary (Excel version)The excel version of US Liquid Rates Tracker provides a downloadable spreadsheet for US Treasury Nominal curve and TIPS bonds.Treasury Relative Value ReportThe Treasury Relative Value Report provides detail beyond the Liquid Rates Tracker on the nominal Treasury curve, comparing bonds across several relative value metrics.US Bond FuturesWe determine a model value for the two front 2y note, 5y note, 10y note and 30y bond futures contracts. We use this to indicate how rich or cheap the contract is trading. Additionally, we determine the DV01 of the contract.</Synopsis>
+<Resource primaryIndicator="Yes" resourceID="c523eb8e-7fc3-11ee-8952-7bd1efab7f8a" sizeInBytes="267089" language="eng">
+<Length lengthUnit="Pages">3</Length>
+<MIMEType>application/pdf</MIMEType>
+<Name>MTNA20231110773926.pdf</Name>
+<URL>https://ny.matrix.ms.com/eqr/article/webapp/c523eb8e-7fc3-11ee-8952-7bd1efab7f8a?ch=MarkitHub</URL>
+<Data>UGxlYXNlIHVzZSB0aGUgbGlua3MgaW4gdGhlIGVtYWlsIGJlbG93IHRvIGFjY2VzcyBlYWNoIGRhdGEgcmVwb3J0LiA8QlIgLz48ZGl2PjxwPjxhIGhyZWY9Imh0dHBzOi8vbnkubWF0cml4Lm1zLmNvbS9lcXIvYXJ0aWNsZS93ZWJhcHAvNzMyY2ZjZDAtN2ZjMy0xMWVlLTg5NTItN2JkMWVmYWI3ZjhhP2NoPXJwaW50JnNjaD1zciZzcj00Ij5VUyBMaXF1aWQgUmF0ZXMgVHJhY2tlcjwvYT48L3A+PHA+VGhlIFVTIExpcXVpZCBSYXRlcyBUcmFja2VyIHByb3ZpZGVzIGRldGFpbCBvbiB0aGUgVVMgVHJlYXN1cnkgTm9taW5hbCBjdXJ2ZSwgU1RSSVBTLCBhbmQgIFRJUFMuPC9wPjxwPjxhIGhyZWY9Imh0dHBzOi8vbnkubWF0cml4Lm1zLmNvbS9lcXIvYXJ0aWNsZS93ZWJhcHAvZjEwNzhlYjAtN2ZjMS0xMWVlLTg5NTItN2JkMWVmYWI3ZjhhP2NoPXJwaW50JnNjaD1zciZzcj0yIj5UcmVhc3VyeSAmIFRJUFMgU3VtbWFyeSAoRXhjZWwgdmVyc2lvbik8L2E+PC9wPjxwPlRoZSBleGNlbCB2ZXJzaW9uIG9mIFVTIExpcXVpZCBSYXRlcyBUcmFja2VyIHByb3ZpZGVzIGEgZG93bmxvYWRhYmxlIHNwcmVhZHNoZWV0IGZvciBVUyBUcmVhc3VyeSBOb21pbmFsIGN1cnZlIGFuZCBUSVBTIGJvbmRzLjwvcD48cD48YSBocmVmPSJodHRwczovL255Lm1hdHJpeC5tcy5jb20vZXFyL2FydGljbGUvd2ViYXBwLzEzNjI4MTQ0LTdmYzMtMTFlZS04OTUyLTdiZDFlZmFiN2Y4YT9jaD1ycGludCZzY2g9c3Imc3I9MSI+VHJlYXN1cnkgUmVsYXRpdmUgVmFsdWUgUmVwb3J0PC9hPjwvcD48cD5UaGUgVHJlYXN1cnkgUmVsYXRpdmUgVmFsdWUgUmVwb3J0IHByb3ZpZGVzIGRldGFpbCBiZXlvbmQgdGhlIExpcXVpZCBSYXRlcyBUcmFja2VyIG9uIHRoZSBub21pbmFsIFRyZWFzdXJ5IGN1cnZlLCBjb21wYXJpbmcgYm9uZHMgYWNyb3NzIHNldmVyYWwgcmVsYXRpdmUgdmFsdWUgbWV0cmljcy48L3A+PHA+PGEgaHJlZj0iaHR0cHM6Ly9ueS5tYXRyaXgubXMuY29tL2Vxci9hcnRpY2xlL3dlYmFwcC80OTNlYzZjZS03ZmMzLTExZWUtODk1Mi03YmQxZWZhYjdmOGE/Y2g9cnBpbnQmc2NoPXNyJnNyPTMiPlVTIEJvbmQgRnV0dXJlczwvYT48L3A+PHA+V2UgZGV0ZXJtaW5lIGEgbW9kZWwgdmFsdWUgZm9yIHRoZSB0d28gZnJvbnQgMnkgbm90ZSwgNXkgbm90ZSwgMTB5IG5vdGUgYW5kIDMweSBib25kIGZ1dHVyZXMgY29udHJhY3RzLiBXZSB1c2UgdGhpcyB0byBpbmRpY2F0ZSBob3cgcmljaCBvciBjaGVhcCB0aGUgY29udHJhY3QgaXMgdHJhZGluZy4gQWRkaXRpb25hbGx5LCB3ZSBkZXRlcm1pbmUgdGhlIERWMDEgb2YgdGhlIGNvbnRyYWN0LjwvcD48L2Rpdj4=</Data>
+</Resource>
+</Content>
+<Context external="Yes">
+<ProductDetails periodicalIndicator="Yes" publicationDateTime="2023-11-10T12:24:40Z">
+<ProductCategory productCategory="Charts" />
+<ProductFocus primaryIndicator="Yes" focus="AssetType" />
+<ProductSeries>
+<SeriesName>Global Macro Data</SeriesName>
+</ProductSeries>
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_CLASS=51</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_MENU_CODE=1360101</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_CLASS=51</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_MENU_CODE=1360102</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_CLASS=51</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_MENU_CODE=1360103</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_CLASS=51</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_MENU_CODE=1360105</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_CLASS=51</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_MENU_CODE=1360106</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_CLASS=51</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_MENU_CODE=1360107</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">GHYusers</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">FIRusers</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">EmailAlert</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">MorganStanleyResearchDocGroup1002</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">MorganStanleyResearchDocGroup1001</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">MorganStanleyResearchDocGroup1003</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<ProductName>Update</ProductName>
+</ProductDetails>
+<ProductClassifications>
+<Discipline disciplineType="Investment" />
+<Country primaryIndicator="Yes" code="US" />
+<Region primaryIndicator="Yes" regionType="NorthAmerica" />
+<Region primaryIndicator="No" regionType="Global" />
+<AssetClass assetClass="FixedIncome" />
+<AssetType assetType="EuropeanCoveredBond" />
+<AssetType assetType="FinancialFutures" />
+<AssetType assetType="SovereignCredit" />
+<AssetType assetType="MoneyMarketCredit" />
+<AssetType assetType="MortgageBackedCredit" />
+<AssetType assetType="Derivatives" />
+<AssetType assetType="USTreasuries" />
+<AssetType assetType="PublisherDefined" publisherDefinedValue="Interest Rates" />
+<AssetType assetType="PublisherDefined" publisherDefinedValue="Interest Rates" />
+<AssetType assetType="PublisherDefined" publisherDefinedValue="Interest Rates" />
+<AssetType assetType="PublisherDefined" publisherDefinedValue="Interest Rates" />
+<AssetType assetType="PublisherDefined" publisherDefinedValue="Interest Rates" />
+<AssetType assetType="PublisherDefined" publisherDefinedValue="Interest Rates" />
+<AssetType assetType="PublisherDefined" publisherDefinedValue="Interest Rates" />
+<AssetType assetType="PublisherDefined" publisherDefinedValue="Interest Rates" />
+<SecurityType securityType="PublisherDefined" publisherDefinedValue="Options / Volatility" />
+<SecurityType securityType="PublisherDefined" publisherDefinedValue="Money Markets" />
+<SecurityType securityType="PublisherDefined" publisherDefinedValue="Sovereigns / Treasuries" />
+<SecurityType securityType="PublisherDefined" publisherDefinedValue="Covered Bonds" />
+<SecurityType securityType="PublisherDefined" publisherDefinedValue="Futures" />
+<SecurityType securityType="PublisherDefined" publisherDefinedValue="Inflation Linked" />
+<SecurityType securityType="PublisherDefined" publisherDefinedValue="Swaps" />
+<SecurityType securityType="PublisherDefined" publisherDefinedValue="Mortgages / MBS" />
+</ProductClassifications>
+</Context>
+<Legal>
+<Copyright>Copyright 2023 Morgan Stanley</Copyright>
+</Legal>
+</Product>
+</Research>

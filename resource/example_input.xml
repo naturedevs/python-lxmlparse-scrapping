@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Research xmlns="http://www.rixml.org/2005/3/RIXML" researchID="9a97b8e2-7f45-11ee-8952-7bd1efab7f8a" language="eng" createDateTime="2023-11-10T05:02:15Z">
+<Product productID="9a97b8e2-7f45-11ee-8952-7bd1efab7f8a" eventIndicator="No">
+<StatusInfo statusType="Published" statusDateTime="2023-11-10T05:02:23Z" currentStatusIndicator="Yes">
+<Version>1</Version>
+</StatusInfo>
+<Source>
+<Organization primaryIndicator="Yes" type="SellSideFirm">
+<OrganizationID idType="MS">3628514D-38C5-4d79-97FB-EED11D3B0FFE</OrganizationID>
+<OrganizationName nameType="Legal">Morgan Stanley &amp; Co. LLC</OrganizationName>
+<PersonGroup>
+<PersonGroupMember sequence="1" primaryIndicator="Yes">
+<Person personID="711edd70-ec59-4322-95a7-ee467e0d63e1">
+<FamilyName>Marshall</FamilyName>
+<GivenName>Meta</GivenName>
+<DisplayName>Meta A Marshall</DisplayName>
+<JobTitle>Analyst</JobTitle>
+<Division>Morgan Stanley Research</Division>
+<ContactInfo nature="Business">
+<Email>Meta.Marshall@morganstanley.com</Email>
+<Phone type="Voice" location="Office">
+<CountryCode>+1</CountryCode>
+<Number>212 761-0430</Number>
+</Phone>
+</ContactInfo>
+</Person>
+</PersonGroupMember>
+<PersonGroupMember sequence="2" primaryIndicator="No">
+<Person personID="6905b732-68f8-48cd-b540-8fa71ba43bb6">
+<FamilyName>Lenox</FamilyName>
+<GivenName>Mary</GivenName>
+<DisplayName>Mary B Lenox, CPA</DisplayName>
+<JobTitle>Associate</JobTitle>
+<Division>Morgan Stanley Research</Division>
+<ContactInfo nature="Business">
+<Email>Mary.Lenox@morganstanley.com</Email>
+<Phone type="Voice" location="Office">
+<CountryCode>+1</CountryCode>
+<Number>212 761-8998</Number>
+</Phone>
+</ContactInfo>
+</Person>
+</PersonGroupMember>
+</PersonGroup>
+</Organization>
+<Organization primaryIndicator="No" type="SellSideFirm">
+<OrganizationID idType="Reuters">2975</OrganizationID>
+<OrganizationName nameType="Display">Morgan Stanley &amp; Co. LLC</OrganizationName>
+</Organization>
+</Source>
+<Content>
+<Title>Arista Networks: ANET Analyst Day: Deep Dive on AI Opportunity</Title>
+<Abstract>Cloud and AI Innovators Analyst Day  presented a  deep dive into technology problems created by AI,  and solved by Arista. As expected, financial targets laid out were largely as previewed on Q2/Q3 earnings, giving room for eventual new CFO and flexibility given customer concentration. Remain OW.  
+
+Key takeaways
+Arista sees an incremental  $5bn  AI networking (back end) opportunity unfolding  by 2027, part of the overall $25bn opportunity we see for cloud networkingAdvantages, and constant evolution, of EOS positions Arista to take advantage of that opportunity Enterprise / campus opportunity continues to be a meaningful growth driver10-12% growth targets for 2024  were about in-line with investor expectations, mid-teens for '22 - '27 slightly less aggressive than hoped for  We attended Arista's 2023 Cloud and AI Innovators event virtually on Thursday, November 9th. AI creates networking problems, Arista developing solutions. Our move to OW recently was driven by the idea that Arista was best able to capitalize on large opportunity created by AI and the accompanying bandwidth increase both in training and utilizing LLMs. Arista's Analyst Day dove deep into the complex traffic patterns / load balancing conflicts AI traffic creates and how EOS is best able to resolve these. By resolving these problems, they see increasing ways in which Arista can participate in  the AI networking opportunity ($5bn by 2027), which they classify as just the back end or training opportunity largely being served by InfiniBand today. We think this $5bn is a part of  an overall $25bn cloud networking opportunity by 2027, servicing not only training needs, but the increase in inference use cases and continued move of workloads to the cloud, and part of the $60bn opportunity Arista sees for itself in total (including AI, cloud, enterprise). We walked away continuing to believe in the strength of Arista's positioning. The quicker trialing / refining can be done, the sooner Arista can capitalize on AI networking opportunity. Arista laid out a $750mm 2025 target for revenue they would classify as AI networking (back end, or for use in training). This does not include revenue they may get from inference use cases, which we would classify as a bigger opportunity and one they are well positioned for. As we noted in our upgrade, Ethernet is already being trialed by META for LLaMA2  clusters (META is covered by Brian Nowak). Given these trials are ongoing, we asked the company what learnings they have in early days from these trials and others, and how to turn trials into achieving the $750mm targets. They noted that with refining, both on how customers configure networks and improvements they have made to EOS, they are seeing the evidence that performance gaps to InfiniBand are closing,  but it requires iterations from both parties. They also noted that trials are largely being done at 400G, where actually implementations would take place at 800G, helping further improve performance.  Campus / enterprise remain meaningful opportunities, particularly as security needs grow. While most of the Analyst Event focused on the AI opportunity, the company also laid out the large enterprise opportunity they see. Much of the focus was highlighting how Arista's CloudVision common management plane simplifies and secures customer networks, helping the company gain share in data center and on campus. Adding more security elements into CloudVision,  Arista announced their Zero Trust Networking Vision. Their approach is focused on leveraging the network to eliminate blindspots and silos in the network. They are partnering with Microsoft, Crowdstrike and Zscaler (newly announced) as a part of this initiative.  Arista reiterated the campus goal of $750mm of campus revenue by 2025, largely achieved without need of a channel, though channel investment continues.  Financial outlook largely as expected, few changes to the model. The company laid out targets for 10-12% revenue growth in '24 and mid-teens growth from '22-'27 (as shown in 2). As a result, we are raising our top-line estimates  for ANET in FY24, largely to account  for stronger growth expectations with the Cloud Titans and Tier 2 customers. Our  margins remain largely the same for FY24 and FY25 top-line growth remains the same, however FY25 gross margins come down slightly due to customer mix (e.g. more cloud revenue).  Net result is our new non-GAAP FY24 and FY25 revenue / EPS estimates moving up to $6,487.2mm / $7.07 and $7,198.5mm / $7.55 from $6,418.3mm / $7.03 and $7,125.8mm / $7.59 previously. We would note that '24 company outlook  was largely in-line with investor expectations, but '22-'27 revenue growth CAGR may have been slightly short of expectations. We think given upcoming CFO transition and uncertainty in 800G outcomes/timing, initial targets could eventually prove conservative. Remain OW, $220PT. While we acknowledge that Arista's current valuation is not cheap, we think it is the best exposed of our coverage universe to eventual AI networking investment, and as a result we are willing to pay a premium for the name (more in-line with software averages). In our scenario analysis, we think the earnings power of the company could reach $8.5 by 2025, making PT ~25x (or ~28x Street). This is in-line with software multiples, which has been how the company has traditionally traded. Our $220 PT is 28x 25e P/E from 27x 24e P/E. Our bull case valuation is $275, or 32x a bull 25e P/E, with 32x representative of faster growing software names. Our bear case valuation is $120, with 18x representing the minimum the name has traditionally traded at (on 24e earnings). Biggest risks to price target are meaningful pullback in cloud capex spend, share loss at 800G, and InfiniBand making headway as the de facto AI standard. </Abstract>
+<Synopsis>Cloud and AI Innovators Analyst Day  presented a  deep dive into technology problems created by AI,  and solved by Arista. As expected, financial targets laid out were largely as previewed on Q2/Q3 earnings, giving room for eventual new CFO and flexibility given customer concentration. Remain OW.  
+
+Key takeaways
+Arista sees an incremental  $5bn  AI networking (back end) opportunity unfolding  by 2027, part of the overall $25bn opportunity we see for cloud networkingAdvantages, and constant evolution, of EOS positions Arista to take advantage of that opportunity Enterprise / campus opportunity continues to be a meaningful growth driver10-12% growth targets for 2024  were about in-line with investor expectations, mid-teens for '22 - '27 slightly less aggressive than hoped for  We attended Arista's 2023 Cloud and AI Innovators event virtually on Thursday, November 9th. AI creates networking problems, Arista developing solutions. Our move to OW recently was driven by the idea that Arista was best able to capitalize on large opportunity created by AI and the accompanying bandwidth increase both in training and utilizing LLMs. Arista's Analyst Day dove deep into the complex traffic patterns / load balancing conflicts AI traffic creates and how EOS is best able to resolve these. By resolving these problems, they see increasing ways in which Arista can participate in  the AI networking opportunity ($5bn by 2027), which they classify as just the back end or training opportunity largely being served by InfiniBand today. We think this $5bn is a part of  an overall $25bn cloud networking opportunity by 2027, servicing not only training needs, but the increase in inference use cases and continued move of workloads to the cloud, and part of the $60bn opportunity Arista sees for itself in total (including AI, cloud, enterprise). We walked away continuing to believe in the strength of Arista's positioning. The quicker trialing / refining can be done, the sooner Arista can capitalize on AI networking opportunity. Arista laid out a $750mm 2025 target for revenue they would classify as AI networking (back end, or for use in training). This does not include revenue they may get from inference use cases, which we would classify as a bigger opportunity and one they are well positioned for. As we noted in our upgrade, Ethernet is already being trialed by META for LLaMA2  clusters (META is covered by Brian Nowak). Given these trials are ongoing, we asked the company what learnings they have in early days from these trials and others, and how to turn trials into achieving the $750mm targets. They noted that with refining, both on how customers configure networks and improvements they have made to EOS, they are seeing the evidence that performance gaps to InfiniBand are closing,  but it requires iterations from both parties. They also noted that trials are largely being done at 400G, where actually implementations would take place at 800G, helping further improve performance.  Campus / enterprise remain meaningful opportunities, particularly as security needs grow. While most of the Analyst Event focused on the AI opportunity, the company also laid out the large enterprise opportunity they see. Much of the focus was highlighting how Arista's CloudVision common management plane simplifies and secures customer networks, helping the company gain share in data center and on campus. Adding more security elements into CloudVision,  Arista announced their Zero Trust Networking Vision. Their approach is focused on leveraging the network to eliminate blindspots and silos in the network. They are partnering with Microsoft, Crowdstrike and Zscaler (newly announced) as a part of this initiative.  Arista reiterated the campus goal of $750mm of campus revenue by 2025, largely achieved without need of a channel, though channel investment continues.  Financial outlook largely as expected, few changes to the model. The company laid out targets for 10-12% revenue growth in '24 and mid-teens growth from '22-'27 (as shown in 2). As a result, we are raising our top-line estimates  for ANET in FY24, largely to account  for stronger growth expectations with the Cloud Titans and Tier 2 customers. Our  margins remain largely the same for FY24 and FY25 top-line growth remains the same, however FY25 gross margins come down slightly due to customer mix (e.g. more cloud revenue).  Net result is our new non-GAAP FY24 and FY25 revenue / EPS estimates moving up to $6,487.2mm / $7.07 and $7,198.5mm / $7.55 from $6,418.3mm / $7.03 and $7,125.8mm / $7.59 previously. We would note that '24 company outlook  was largely in-line with investor expectations, but '22-'27 revenue growth CAGR may have been slightly short of expectations. We think given upcoming CFO transition and uncertainty in 800G outcomes/timing, initial targets could eventually prove conservative. Remain OW, $220PT. While we acknowledge that Arista's current valuation is not cheap, we think it is the best exposed of our coverage universe to eventual AI networking investment, and as a result we are willing to pay a premium for the name (more in-line with software averages). In our scenario analysis, we think the earnings power of the company could reach $8.5 by 2025, making PT ~25x (or ~28x Street). This is in-line with software multiples, which has been how the company has traditionally traded. Our $220 PT is 28x 25e P/E from 27x 24e P/E. Our bull case valuation is $275, or 32x a bull 25e P/E, with 32x representative of faster growing software names. Our bear case valuation is $120, with 18x representing the minimum the name has traditionally traded at (on 24e earnings). Biggest risks to price target are meaningful pullback in cloud capex spend, share loss at 800G, and InfiniBand making headway as the de facto AI standard. </Synopsis>
+<Resource primaryIndicator="Yes" resourceID="9a97b8e2-7f45-11ee-8952-7bd1efab7f8a" sizeInBytes="685041" language="eng">
+<Length lengthUnit="Pages">16</Length>
+<MIMEType>application/pdf</MIMEType>
+<Name>MSNA20231109232897.pdf</Name>
+<Data>Q2xvdWQgYW5kIEFJIElubm92YXRvcnMgQW5hbHlzdCBEYXkgIHByZXNlbnRlZCBhICBkZWVwIGRpdmUgaW50byB0ZWNobm9sb2d5IHByb2JsZW1zIGNyZWF0ZWQgYnkgQUksICBhbmQgc29sdmVkIGJ5IEFyaXN0YS4gQXMgZXhwZWN0ZWQsIGZpbmFuY2lhbCB0YXJnZXRzIGxhaWQgb3V0IHdlcmUgbGFyZ2VseSBhcyBwcmV2aWV3ZWQgb24gUTIvUTMgZWFybmluZ3MsIGdpdmluZyByb29tIGZvciBldmVudHVhbCBuZXcgQ0ZPIGFuZCBmbGV4aWJpbGl0eSBnaXZlbiBjdXN0b21lciBjb25jZW50cmF0aW9uLiBSZW1haW4gT1cuICA8QlIgLz48QlIgLz48Yj5LZXkgdGFrZWF3YXlzPC9iPjx1bD48bGkgc3R5bGU9InBhZGRpbmctYm90dG9tOiAxMnB4OyI+QXJpc3RhIHNlZXMgYW4gaW5jcmVtZW50YWwgICQ1Ym4gIEFJIG5ldHdvcmtpbmcgKGJhY2sgZW5kKSBvcHBvcnR1bml0eSB1bmZvbGRpbmcgIGJ5IDIwMjcsIHBhcnQgb2YgdGhlIG92ZXJhbGwgJDI1Ym4gb3Bwb3J0dW5pdHkgd2Ugc2VlIGZvciBjbG91ZCBuZXR3b3JraW5nPC9saT48bGkgc3R5bGU9InBhZGRpbmctYm90dG9tOiAxMnB4OyI+QWR2YW50YWdlcywgYW5kIGNvbnN0YW50IGV2b2x1dGlvbiwgb2YgRU9TIHBvc2l0aW9ucyBBcmlzdGEgdG8gdGFrZSBhZHZhbnRhZ2Ugb2YgdGhhdCBvcHBvcnR1bml0eTwvbGk+PGxpIHN0eWxlPSJwYWRkaW5nLWJvdHRvbTogMTJweDsiPkVudGVycHJpc2UgLyBjYW1wdXMgb3Bwb3J0dW5pdHkgY29udGludWVzIHRvIGJlIGEgbWVhbmluZ2Z1bCBncm93dGggZHJpdmVyPC9saT48bGkgc3R5bGU9InBhZGRpbmctYm90dG9tOiAxMnB4OyI+MTAtMTIlIGdyb3d0aCB0YXJnZXRzIGZvciAyMDI0ICB3ZXJlIGFib3V0IGluLWxpbmUgd2l0aCBpbnZlc3RvciBleHBlY3RhdGlvbnMsIG1pZC10ZWVucyBmb3IgJzIyIC0gJzI3IHNsaWdodGx5IGxlc3MgYWdncmVzc2l2ZSB0aGFuIGhvcGVkIGZvcjwvbGk+PC91bD48ZGl2PjxwPjxlbT5XZSBhdHRlbmRlZCBBcmlzdGEncyAyMDIzIENsb3VkIGFuZCBBSSBJbm5vdmF0b3JzIGV2ZW50IHZpcnR1YWxseSBvbiBUaHVyc2RheSwgTm92ZW1iZXIgOXRoLiA8L2VtPjwvcD48cD48c3Ryb25nPkFJIGNyZWF0ZXMgbmV0d29ya2luZyBwcm9ibGVtcywgQXJpc3RhIGRldmVsb3Bpbmcgc29sdXRpb25zLjwvc3Ryb25nPiBPdXIgPG1hcmsgdHlwZT0iZ2VuZXJpYyI+PGEgaHJlZj0iaHR0cHM6Ly9ueS5tYXRyaXgubXMuY29tL2Vxci9hcnRpY2xlL3dlYmFwcC82N2Y5ZjViNC01MzQ3LTExZWUtYTM3Yy1hZmZjYzQ3MDM4ZjQ/Y2g9cnBpbnQmc2NoPWNyIj5tb3ZlIHRvIE9XIHJlY2VudGx5IDwvYT48L21hcms+d2FzIGRyaXZlbiBieSB0aGUgaWRlYSB0aGF0IEFyaXN0YSB3YXMgYmVzdCBhYmxlIHRvIGNhcGl0YWxpemUgb24gbGFyZ2Ugb3Bwb3J0dW5pdHkgY3JlYXRlZCBieSBBSSBhbmQgdGhlIGFjY29tcGFueWluZyBiYW5kd2lkdGggaW5jcmVhc2UgYm90aCBpbiB0cmFpbmluZyBhbmQgdXRpbGl6aW5nIExMTXMuIEFyaXN0YSdzIEFuYWx5c3QgRGF5IGRvdmUgZGVlcCBpbnRvIHRoZSBjb21wbGV4IHRyYWZmaWMgcGF0dGVybnMgLyBsb2FkIGJhbGFuY2luZyBjb25mbGljdHMgQUkgdHJhZmZpYyBjcmVhdGVzIGFuZCBob3cgRU9TIGlzIGJlc3QgYWJsZSB0byByZXNvbHZlIHRoZXNlLiBCeSByZXNvbHZpbmcgdGhlc2UgcHJvYmxlbXMsIHRoZXkgc2VlIGluY3JlYXNpbmcgd2F5cyBpbiB3aGljaCBBcmlzdGEgY2FuIHBhcnRpY2lwYXRlIGluICB0aGUgQUkgbmV0d29ya2luZyBvcHBvcnR1bml0eSAoJDVibiBieSAyMDI3KSwgd2hpY2ggdGhleSBjbGFzc2lmeSBhcyBqdXN0IHRoZSBiYWNrIGVuZCBvciB0cmFpbmluZyBvcHBvcnR1bml0eSBsYXJnZWx5IGJlaW5nIHNlcnZlZCBieSBJbmZpbmlCYW5kIHRvZGF5LiBXZSB0aGluayB0aGlzICQ1Ym4gaXMgYSBwYXJ0IG9mICBhbiBvdmVyYWxsICQyNWJuIGNsb3VkIG5ldHdvcmtpbmcgb3Bwb3J0dW5pdHkgYnkgMjAyNywgc2VydmljaW5nIG5vdCBvbmx5IHRyYWluaW5nIG5lZWRzLCBidXQgdGhlIGluY3JlYXNlIGluIGluZmVyZW5jZSB1c2UgY2FzZXMgYW5kIGNvbnRpbnVlZCBtb3ZlIG9mIHdvcmtsb2FkcyB0byB0aGUgY2xvdWQsIGFuZCBwYXJ0IG9mIHRoZSAkNjBibiBvcHBvcnR1bml0eSBBcmlzdGEgc2VlcyBmb3IgaXRzZWxmIGluIHRvdGFsIChpbmNsdWRpbmcgQUksIGNsb3VkLCBlbnRlcnByaXNlKS4gV2Ugd2Fsa2VkIGF3YXkgY29udGludWluZyB0byBiZWxpZXZlIGluIHRoZSBzdHJlbmd0aCBvZiBBcmlzdGEncyBwb3NpdGlvbmluZy4gPC9wPjxwPjxzdHJvbmc+VGhlIHF1aWNrZXIgdHJpYWxpbmcgLyByZWZpbmluZyBjYW4gYmUgZG9uZSwgdGhlIHNvb25lciBBcmlzdGEgY2FuIGNhcGl0YWxpemUgb24gQUkgbmV0d29ya2luZyBvcHBvcnR1bml0eS48L3N0cm9uZz4gQXJpc3RhIGxhaWQgb3V0IGEgJDc1MG1tIDIwMjUgdGFyZ2V0IGZvciByZXZlbnVlIHRoZXkgd291bGQgY2xhc3NpZnkgYXMgQUkgbmV0d29ya2luZyAoYmFjayBlbmQsIG9yIGZvciB1c2UgaW4gdHJhaW5pbmcpLiBUaGlzIGRvZXMgbm90IGluY2x1ZGUgcmV2ZW51ZSB0aGV5IG1heSBnZXQgZnJvbSBpbmZlcmVuY2UgdXNlIGNhc2VzLCB3aGljaCB3ZSB3b3VsZCBjbGFzc2lmeSBhcyBhIGJpZ2dlciBvcHBvcnR1bml0eSBhbmQgb25lIHRoZXkgYXJlIHdlbGwgcG9zaXRpb25lZCBmb3IuIEFzIHdlIG5vdGVkIGluIG91ciB1cGdyYWRlLCBFdGhlcm5ldCBpcyBhbHJlYWR5IGJlaW5nIHRyaWFsZWQgYnkgTUVUQSBmb3IgTExhTUEyICBjbHVzdGVycyAoTUVUQSBpcyBjb3ZlcmVkIGJ5IEJyaWFuIE5vd2FrKS4gR2l2ZW4gdGhlc2UgdHJpYWxzIGFyZSBvbmdvaW5nLCB3ZSBhc2tlZCB0aGUgY29tcGFueSB3aGF0IGxlYXJuaW5ncyB0aGV5IGhhdmUgaW4gZWFybHkgZGF5cyBmcm9tIHRoZXNlIHRyaWFscyBhbmQgb3RoZXJzLCBhbmQgaG93IHRvIHR1cm4gdHJpYWxzIGludG8gYWNoaWV2aW5nIHRoZSAkNzUwbW0gdGFyZ2V0cy4gVGhleSBub3RlZCB0aGF0IHdpdGggcmVmaW5pbmcsIGJvdGggb24gaG93IGN1c3RvbWVycyBjb25maWd1cmUgbmV0d29ya3MgYW5kIGltcHJvdmVtZW50cyB0aGV5IGhhdmUgbWFkZSB0byBFT1MsIHRoZXkgYXJlIHNlZWluZyB0aGUgZXZpZGVuY2UgdGhhdCBwZXJmb3JtYW5jZSBnYXBzIHRvIEluZmluaUJhbmQgYXJlIGNsb3NpbmcsICBidXQgaXQgcmVxdWlyZXMgaXRlcmF0aW9ucyBmcm9tIGJvdGggcGFydGllcy4gVGhleSBhbHNvIG5vdGVkIHRoYXQgdHJpYWxzIGFyZSBsYXJnZWx5IGJlaW5nIGRvbmUgYXQgNDAwRywgd2hlcmUgYWN0dWFsbHkgaW1wbGVtZW50YXRpb25zIHdvdWxkIHRha2UgcGxhY2UgYXQgODAwRywgaGVscGluZyBmdXJ0aGVyIGltcHJvdmUgcGVyZm9ybWFuY2UuICA8L3A+PHA+PHN0cm9uZz5DYW1wdXMgLyBlbnRlcnByaXNlIHJlbWFpbiBtZWFuaW5nZnVsIG9wcG9ydHVuaXRpZXMsIHBhcnRpY3VsYXJseSBhcyBzZWN1cml0eSBuZWVkcyBncm93Ljwvc3Ryb25nPiBXaGlsZSBtb3N0IG9mIHRoZSBBbmFseXN0IEV2ZW50IGZvY3VzZWQgb24gdGhlIEFJIG9wcG9ydHVuaXR5LCB0aGUgY29tcGFueSBhbHNvIGxhaWQgb3V0IHRoZSBsYXJnZSBlbnRlcnByaXNlIG9wcG9ydHVuaXR5IHRoZXkgc2VlLiBNdWNoIG9mIHRoZSBmb2N1cyB3YXMgaGlnaGxpZ2h0aW5nIGhvdyBBcmlzdGEncyBDbG91ZFZpc2lvbiBjb21tb24gbWFuYWdlbWVudCBwbGFuZSBzaW1wbGlmaWVzIGFuZCBzZWN1cmVzIGN1c3RvbWVyIG5ldHdvcmtzLCBoZWxwaW5nIHRoZSBjb21wYW55IGdhaW4gc2hhcmUgaW4gZGF0YSBjZW50ZXIgYW5kIG9uIGNhbXB1cy4gQWRkaW5nIG1vcmUgc2VjdXJpdHkgZWxlbWVudHMgaW50byBDbG91ZFZpc2lvbiwgIEFyaXN0YSBhbm5vdW5jZWQgdGhlaXIgWmVybyBUcnVzdCBOZXR3b3JraW5nIFZpc2lvbi4gVGhlaXIgYXBwcm9hY2ggaXMgZm9jdXNlZCBvbiBsZXZlcmFnaW5nIHRoZSBuZXR3b3JrIHRvIGVsaW1pbmF0ZSBibGluZHNwb3RzIGFuZCBzaWxvcyBpbiB0aGUgbmV0d29yay4gVGhleSBhcmUgcGFydG5lcmluZyB3aXRoIE1pY3Jvc29mdCwgQ3Jvd2RzdHJpa2UgYW5kIFpzY2FsZXIgKG5ld2x5IGFubm91bmNlZCkgYXMgYSBwYXJ0IG9mIHRoaXMgaW5pdGlhdGl2ZS4gIEFyaXN0YSByZWl0ZXJhdGVkIHRoZSBjYW1wdXMgZ29hbCBvZiAkNzUwbW0gb2YgY2FtcHVzIHJldmVudWUgYnkgMjAyNSwgbGFyZ2VseSBhY2hpZXZlZCB3aXRob3V0IG5lZWQgb2YgYSBjaGFubmVsLCB0aG91Z2ggY2hhbm5lbCBpbnZlc3RtZW50IGNvbnRpbnVlcy4gIDwvcD48cD48c3Ryb25nPkZpbmFuY2lhbCBvdXRsb29rIGxhcmdlbHkgYXMgZXhwZWN0ZWQsIGZldyBjaGFuZ2VzIHRvIHRoZSBtb2RlbC48L3N0cm9uZz4gVGhlIGNvbXBhbnkgbGFpZCBvdXQgdGFyZ2V0cyBmb3IgMTAtMTIlIHJldmVudWUgZ3Jvd3RoIGluICcyNCBhbmQgbWlkLXRlZW5zIGdyb3d0aCBmcm9tICcyMi0nMjcgKGFzIHNob3duIGluIDxhIHR5cGU9InhyZWYiIGhyZWY9Ii9NU1Jlc2VhcmNoL0NvbnRlbnQvQXJ0aWNsZXMvMjAyMy0xMS0wOS9BcnRpY2xlUGFnZXMvQVJMRU5PWDIwMjMxMTA5MjExOTAxMzc5L0FSTEVOT1gyMDIzMTEwOTIxMTkwMTM3OV9zX3NlY3Rpb24ueG1sP3V1aWQ9OWE5NDQ2MzAtN2Y0NS0xMWVlLTg5NTItN2JkMWVmYWI3ZjhhI1UxMTMzODcwMzY4MDM4M1BGIj4yPC9hPikuIEFzIGEgcmVzdWx0LCB3ZSBhcmUgcmFpc2luZyBvdXIgdG9wLWxpbmUgZXN0aW1hdGVzICBmb3IgQU5FVCBpbiBGWTI0LCBsYXJnZWx5IHRvIGFjY291bnQgIGZvciBzdHJvbmdlciBncm93dGggZXhwZWN0YXRpb25zIHdpdGggdGhlIENsb3VkIFRpdGFucyBhbmQgVGllciAyIGN1c3RvbWVycy4gT3VyICBtYXJnaW5zIHJlbWFpbiBsYXJnZWx5IHRoZSBzYW1lIGZvciBGWTI0IGFuZCBGWTI1IHRvcC1saW5lIGdyb3d0aCByZW1haW5zIHRoZSBzYW1lLCBob3dldmVyIEZZMjUgZ3Jvc3MgbWFyZ2lucyBjb21lIGRvd24gc2xpZ2h0bHkgZHVlIHRvIGN1c3RvbWVyIG1peCAoZS5nLiBtb3JlIGNsb3VkIHJldmVudWUpLiAgTmV0IHJlc3VsdCBpcyBvdXIgbmV3IG5vbi1HQUFQIEZZMjQgYW5kIEZZMjUgcmV2ZW51ZSAvIEVQUyBlc3RpbWF0ZXMgbW92aW5nIHVwIHRvICQ2LDQ4Ny4ybW0gLyAkNy4wNyBhbmQgJDcsMTk4LjVtbSAvICQ3LjU1IGZyb20gJDYsNDE4LjNtbSAvICQ3LjAzIGFuZCAkNywxMjUuOG1tIC8gJDcuNTkgcHJldmlvdXNseS4gV2Ugd291bGQgbm90ZSB0aGF0ICcyNCBjb21wYW55IG91dGxvb2sgIHdhcyBsYXJnZWx5IGluLWxpbmUgd2l0aCBpbnZlc3RvciBleHBlY3RhdGlvbnMsIGJ1dCAnMjItJzI3IHJldmVudWUgZ3Jvd3RoIENBR1IgbWF5IGhhdmUgYmVlbiBzbGlnaHRseSBzaG9ydCBvZiBleHBlY3RhdGlvbnMuIFdlIHRoaW5rIGdpdmVuIHVwY29taW5nIENGTyB0cmFuc2l0aW9uIGFuZCB1bmNlcnRhaW50eSBpbiA4MDBHIG91dGNvbWVzL3RpbWluZywgaW5pdGlhbCB0YXJnZXRzIGNvdWxkIGV2ZW50dWFsbHkgcHJvdmUgY29uc2VydmF0aXZlLiA8L3A+PHA+PHN0cm9uZz5SZW1haW4gT1csICQyMjBQVC48L3N0cm9uZz4gV2hpbGUgd2UgYWNrbm93bGVkZ2UgdGhhdCBBcmlzdGEncyBjdXJyZW50IHZhbHVhdGlvbiBpcyBub3QgY2hlYXAsIHdlIHRoaW5rIGl0IGlzIHRoZSBiZXN0IGV4cG9zZWQgb2Ygb3VyIGNvdmVyYWdlIHVuaXZlcnNlIHRvIGV2ZW50dWFsIEFJIG5ldHdvcmtpbmcgaW52ZXN0bWVudCwgYW5kIGFzIGEgcmVzdWx0IHdlIGFyZSB3aWxsaW5nIHRvIHBheSBhIHByZW1pdW0gZm9yIHRoZSBuYW1lIChtb3JlIGluLWxpbmUgd2l0aCBzb2Z0d2FyZSBhdmVyYWdlcykuIEluIG91ciBzY2VuYXJpbyBhbmFseXNpcywgd2UgdGhpbmsgdGhlIGVhcm5pbmdzIHBvd2VyIG9mIHRoZSBjb21wYW55IGNvdWxkIHJlYWNoICQ4LjUgYnkgMjAyNSwgbWFraW5nIFBUIH4yNXggKG9yIH4yOHggU3RyZWV0KS4gVGhpcyBpcyBpbi1saW5lIHdpdGggc29mdHdhcmUgbXVsdGlwbGVzLCB3aGljaCBoYXMgYmVlbiBob3cgdGhlIGNvbXBhbnkgaGFzIHRyYWRpdGlvbmFsbHkgdHJhZGVkLiBPdXIgJDIyMCBQVCBpcyAyOHggMjVlIFAvRSBmcm9tIDI3eCAyNGUgUC9FLiBPdXIgYnVsbCBjYXNlIHZhbHVhdGlvbiBpcyAkMjc1LCBvciAzMnggYSBidWxsIDI1ZSBQL0UsIHdpdGggMzJ4IHJlcHJlc2VudGF0aXZlIG9mIGZhc3RlciBncm93aW5nIHNvZnR3YXJlIG5hbWVzLiBPdXIgYmVhciBjYXNlIHZhbHVhdGlvbiBpcyAkMTIwLCB3aXRoIDE4eCByZXByZXNlbnRpbmcgdGhlIG1pbmltdW0gdGhlIG5hbWUgaGFzIHRyYWRpdGlvbmFsbHkgdHJhZGVkIGF0IChvbiAyNGUgZWFybmluZ3MpLiBCaWdnZXN0IHJpc2tzIHRvIHByaWNlIHRhcmdldCBhcmUgbWVhbmluZ2Z1bCBwdWxsYmFjayBpbiBjbG91ZCBjYXBleCBzcGVuZCwgc2hhcmUgbG9zcyBhdCA4MDBHLCBhbmQgSW5maW5pQmFuZCBtYWtpbmcgaGVhZHdheSBhcyB0aGUgZGUgZmFjdG8gQUkgc3RhbmRhcmQuIDwvcD48L2Rpdj4=</Data>
+</Resource>
+</Content>
+<Context external="Yes">
+<IssuerDetails>
+<Issuer primaryIndicator="Yes" issuerType="Corporate" domicileCountryCode="US">
+<SecurityDetails>
+<Security primaryIndicator="Yes" ratingAction="Reiterate" estimateAction="Revision">
+<SecurityID idType="RIC" idValue="ANET.N">
+<TradingExchange>NYSE</TradingExchange>
+</SecurityID>
+<SecurityID idType="Bloomberg" idValue="ANET UN">
+<TradingExchange>NYSE</TradingExchange>
+</SecurityID>
+<SecurityID idType="SEDOL" idValue="BN33VM5">
+<TradingExchange>NYSE</TradingExchange>
+</SecurityID>
+<SecurityID idType="ISIN" idValue="US0404131064">
+<TradingExchange>NYSE</TradingExchange>
+</SecurityID>
+<SecurityID idType="FirstCall" idValue="ANET">
+<TradingExchange>NYSE</TradingExchange>
+</SecurityID>
+<SecurityFinancials priorCurrent="Current" securityFinancialsType="TargetPrice" displayName="Price target">
+<Currency>USD</Currency>
+<Source>Morgan Stanley</Source>
+<FinancialValue estimateActual="Actual">220.00</FinancialValue>
+</SecurityFinancials>
+<AssetClass assetClass="Equity" />
+<AssetType assetType="Stock" />
+<SecurityType securityType="Common">
+<Rating priorCurrent="Current" rating="PublisherDefined">
+<PublisherDefinedValue>Overweight</PublisherDefinedValue>
+<RatingEntity ratingEntity="Publisher" />
+</Rating>
+</SecurityType>
+</Security>
+</SecurityDetails>
+<IssuerName nameType="Display">
+<NameValue>Arista Networks</NameValue>
+</IssuerName>
+<Description />
+</Issuer>
+</IssuerDetails>
+<ProductDetails periodicalIndicator="No" publicationDateTime="2023-11-10T05:02:23Z">
+<ProductCategory productCategory="Report" />
+<ProductFocus primaryIndicator="Yes" focus="Issuer" />
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_CLASS=65</AudienceTypeEntitlement>
+</Entitlement>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">BLOOMBERG_MENU_CODE=249232</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">508</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">EmailAlert</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">MorganStanleyResearchDocGroup1002</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<EntitlementGroup>
+<Entitlement primaryIndicator="No" includeExcludeIndicator="Include">
+<AudienceTypeEntitlement audienceType="PublisherDefined">MorganStanleyResearchDocGroup1001</AudienceTypeEntitlement>
+</Entitlement>
+</EntitlementGroup>
+<ProductName>Update</ProductName>
+</ProductDetails>
+<ProductClassifications>
+<Discipline disciplineType="Investment" />
+<Subject subjectValue="PublisherDefined" publisherDefinedValue="Company Update" />
+<Subject subjectValue="PublisherDefined" publisherDefinedValue="Change in Earnings Forecast" />
+<Subject subjectValue="PublisherDefined" publisherDefinedValue="ReutersEPS" />
+<Country primaryIndicator="Yes" code="US" />
+<Region primaryIndicator="Yes" regionType="NorthAmerica" />
+<AssetClass assetClass="Equity" />
+<AssetType assetType="Stock" />
+<SectorIndustry classificationType="GICS" primaryIndicator="Yes" code="45" level="1" focusLevel="No">
+<Name>Information Technology</Name>
+</SectorIndustry>
+<SectorIndustry classificationType="GICS" primaryIndicator="Yes" code="4520" level="2" focusLevel="No">
+<Name>Technology Hardware &amp; Equipment</Name>
+</SectorIndustry>
+<SectorIndustry classificationType="GICS" primaryIndicator="Yes" code="452010" level="3" focusLevel="No">
+<Name>Communications Equipment</Name>
+</SectorIndustry>
+<SectorIndustry classificationType="GICS" primaryIndicator="Yes" code="45201020" level="4" focusLevel="Yes">
+<Name>Communications Equipment</Name>
+</SectorIndustry>
+<SectorIndustry classificationType="PublisherDefined" primaryIndicator="No" code="1500005586" level="1" focusLevel="No">
+<Name>Telecom &amp; Networking Equipment</Name>
+</SectorIndustry>
+<SectorIndustry classificationType="PublisherDefined" primaryIndicator="Yes" code="1500005587" level="2" focusLevel="Yes">
+<Rating priorCurrent="Current" rating="PublisherDefined">
+<PublisherDefinedValue>Cautious</PublisherDefinedValue>
+<RatingEntity ratingEntity="Publisher" />
+</Rating>
+<Name>Telecom &amp; Networking Equipment</Name>
+</SectorIndustry>
+</ProductClassifications>
+</Context>
+<Legal>
+<Copyright>Copyright 2023 Morgan Stanley</Copyright>
+</Legal>
+</Product>
+</Research>
