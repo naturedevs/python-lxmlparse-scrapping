@@ -1,0 +1,48 @@
+{
+    "statusType": "Published",
+    "statusDateTime": "2023-11-09T12:16:12Z",
+    "mime_type": "application/pdf",
+    "focus_value": "AssetType",
+    "product_category_value": "Charts",
+    "publication_datetime": "2023-11-09T12:16:12Z",
+    "org_details": {
+        "OrganizationName": "Morgan Stanley & Co. LLC",
+        "OrganizationType": "SellSideFirm",
+        "People": [
+            {
+                "CountryCode": "+1",
+                "Email": "Francesco.Grechi@morganstanley.com",
+                "FamilyName": "Grechi",
+                "GivenName": "Francesco",
+                "JobRole": "Strategist",
+                "Division": "Morgan Stanley Research",
+                "PersonID": "75e4ad86-9cee-458b-83c2-8fa71ba43bb6",
+                "PhoneNumber": "212 761-1009"
+            },
+            {
+                "CountryCode": "+1",
+                "Email": "Allen.Liu@morganstanley.com",
+                "FamilyName": "Liu",
+                "GivenName": "Allen",
+                "JobRole": "Strategist",
+                "Division": "Morgan Stanley Research",
+                "PersonID": "1012d4e8-f4b7-42c0-ae3a-8fa71ba43bb6",
+                "PhoneNumber": "212 761-6049"
+            }
+        ]
+    },
+    "sector_data": [],
+    "securities": [],
+    "region_data": [
+        {
+            "primaryIndicator": "Yes",
+            "regionType": "NorthAmerica"
+        }
+    ],
+    "regions": [],
+    "subject": "",
+    "synopsis": "The Treasury Relative Value Report provides detail beyond the Liquid\n                Rates Tracker on the nominal Treasury curve, comparing bonds across several\n                relative value metrics.\n            ",
+    "title": "Global Macro Data: Treasury Relative Value Report",
+    "url": "https://ny.matrix.ms.com/eqr/article/webapp/a88a7722-7ef6-11ee-8952-7bd1efab7f8a?ch=MarkitHub",
+    "data": "VGhlIFRyZWFzdXJ5IFJlbGF0aXZlIFZhbHVlIFJlcG9ydCBwcm92aWRlcyBkZXRhaWwgYmV5b25kIHRoZSBMaXF1aWQgUmF0ZXMgVHJhY2tlciBvbiB0aGUgbm9taW5hbCBUcmVhc3VyeSBjdXJ2ZSwgY29tcGFyaW5nIGJvbmRzIGFjcm9zcyBzZXZlcmFsIHJlbGF0aXZlIHZhbHVlIG1ldHJpY3MuIDxCUiAvPjxkaXY+PHAgLz48L2Rpdj4="
+}

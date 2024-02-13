@@ -1,0 +1,52 @@
+{
+    "statusType": "Published",
+    "statusDateTime": "2023-11-10T12:24:40Z",
+    "mime_type": "application/pdf",
+    "focus_value": "AssetType",
+    "product_category_value": "Charts",
+    "publication_datetime": "2023-11-10T12:24:40Z",
+    "org_details": {
+        "OrganizationName": "Morgan Stanley & Co. LLC",
+        "OrganizationType": "SellSideFirm",
+        "People": [
+            {
+                "CountryCode": "+1",
+                "Email": "Francesco.Grechi@morganstanley.com",
+                "FamilyName": "Grechi",
+                "GivenName": "Francesco",
+                "JobRole": "Strategist",
+                "Division": "Morgan Stanley Research",
+                "PersonID": "75e4ad86-9cee-458b-83c2-8fa71ba43bb6",
+                "PhoneNumber": "212 761-1009"
+            },
+            {
+                "CountryCode": "+1",
+                "Email": "Allen.Liu@morganstanley.com",
+                "FamilyName": "Liu",
+                "GivenName": "Allen",
+                "JobRole": "Strategist",
+                "Division": "Morgan Stanley Research",
+                "PersonID": "1012d4e8-f4b7-42c0-ae3a-8fa71ba43bb6",
+                "PhoneNumber": "212 761-6049"
+            }
+        ]
+    },
+    "sector_data": [],
+    "securities": [],
+    "region_data": [
+        {
+            "primaryIndicator": "Yes",
+            "regionType": "NorthAmerica"
+        },
+        {
+            "primaryIndicator": "No",
+            "regionType": "Global"
+        }
+    ],
+    "regions": [],
+    "subject": "",
+    "synopsis": "Please use the links in the email below to access each data report. \nUS Liquid Rates TrackerThe US Liquid Rates Tracker provides detail on the US Treasury Nominal curve, STRIPS, and  TIPS.Treasury & TIPS Summary (Excel version)The excel version of US Liquid Rates Tracker provides a downloadable spreadsheet for US Treasury Nominal curve and TIPS bonds.Treasury Relative Value ReportThe Treasury Relative Value Report provides detail beyond the Liquid Rates Tracker on the nominal Treasury curve, comparing bonds across several relative value metrics.US Bond FuturesWe determine a model value for the two front 2y note, 5y note, 10y note and 30y bond futures contracts. We use this to indicate how rich or cheap the contract is trading. Additionally, we determine the DV01 of the contract.",
+    "title": "Global Macro Data: Daily Data Update",
+    "url": "https://ny.matrix.ms.com/eqr/article/webapp/c523eb8e-7fc3-11ee-8952-7bd1efab7f8a?ch=MarkitHub",
+    "data": "UGxlYXNlIHVzZSB0aGUgbGlua3MgaW4gdGhlIGVtYWlsIGJlbG93IHRvIGFjY2VzcyBlYWNoIGRhdGEgcmVwb3J0LiA8QlIgLz48ZGl2PjxwPjxhIGhyZWY9Imh0dHBzOi8vbnkubWF0cml4Lm1zLmNvbS9lcXIvYXJ0aWNsZS93ZWJhcHAvNzMyY2ZjZDAtN2ZjMy0xMWVlLTg5NTItN2JkMWVmYWI3ZjhhP2NoPXJwaW50JnNjaD1zciZzcj00Ij5VUyBMaXF1aWQgUmF0ZXMgVHJhY2tlcjwvYT48L3A+PHA+VGhlIFVTIExpcXVpZCBSYXRlcyBUcmFja2VyIHByb3ZpZGVzIGRldGFpbCBvbiB0aGUgVVMgVHJlYXN1cnkgTm9taW5hbCBjdXJ2ZSwgU1RSSVBTLCBhbmQgIFRJUFMuPC9wPjxwPjxhIGhyZWY9Imh0dHBzOi8vbnkubWF0cml4Lm1zLmNvbS9lcXIvYXJ0aWNsZS93ZWJhcHAvZjEwNzhlYjAtN2ZjMS0xMWVlLTg5NTItN2JkMWVmYWI3ZjhhP2NoPXJwaW50JnNjaD1zciZzcj0yIj5UcmVhc3VyeSAmIFRJUFMgU3VtbWFyeSAoRXhjZWwgdmVyc2lvbik8L2E+PC9wPjxwPlRoZSBleGNlbCB2ZXJzaW9uIG9mIFVTIExpcXVpZCBSYXRlcyBUcmFja2VyIHByb3ZpZGVzIGEgZG93bmxvYWRhYmxlIHNwcmVhZHNoZWV0IGZvciBVUyBUcmVhc3VyeSBOb21pbmFsIGN1cnZlIGFuZCBUSVBTIGJvbmRzLjwvcD48cD48YSBocmVmPSJodHRwczovL255Lm1hdHJpeC5tcy5jb20vZXFyL2FydGljbGUvd2ViYXBwLzEzNjI4MTQ0LTdmYzMtMTFlZS04OTUyLTdiZDFlZmFiN2Y4YT9jaD1ycGludCZzY2g9c3Imc3I9MSI+VHJlYXN1cnkgUmVsYXRpdmUgVmFsdWUgUmVwb3J0PC9hPjwvcD48cD5UaGUgVHJlYXN1cnkgUmVsYXRpdmUgVmFsdWUgUmVwb3J0IHByb3ZpZGVzIGRldGFpbCBiZXlvbmQgdGhlIExpcXVpZCBSYXRlcyBUcmFja2VyIG9uIHRoZSBub21pbmFsIFRyZWFzdXJ5IGN1cnZlLCBjb21wYXJpbmcgYm9uZHMgYWNyb3NzIHNldmVyYWwgcmVsYXRpdmUgdmFsdWUgbWV0cmljcy48L3A+PHA+PGEgaHJlZj0iaHR0cHM6Ly9ueS5tYXRyaXgubXMuY29tL2Vxci9hcnRpY2xlL3dlYmFwcC80OTNlYzZjZS03ZmMzLTExZWUtODk1Mi03YmQxZWZhYjdmOGE/Y2g9cnBpbnQmc2NoPXNyJnNyPTMiPlVTIEJvbmQgRnV0dXJlczwvYT48L3A+PHA+V2UgZGV0ZXJtaW5lIGEgbW9kZWwgdmFsdWUgZm9yIHRoZSB0d28gZnJvbnQgMnkgbm90ZSwgNXkgbm90ZSwgMTB5IG5vdGUgYW5kIDMweSBib25kIGZ1dHVyZXMgY29udHJhY3RzLiBXZSB1c2UgdGhpcyB0byBpbmRpY2F0ZSBob3cgcmljaCBvciBjaGVhcCB0aGUgY29udHJhY3QgaXMgdHJhZGluZy4gQWRkaXRpb25hbGx5LCB3ZSBkZXRlcm1pbmUgdGhlIERWMDEgb2YgdGhlIGNvbnRyYWN0LjwvcD48L2Rpdj4="
+}

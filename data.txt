@@ -1,0 +1,42 @@
+{
+    "org_details": {
+        "OrganizationName": "Morgan Stanley & Co. LLC",
+        "OrganizationType": "SellSideFirm",
+        "People": [
+            {
+                "CountryCode": "+1",
+                "Email": "Francesco.Grechi@morganstanley.com",
+                "FamilyName": "Grechi",
+                "GivenName": "Francesco",
+                "JobRole": "Strategist",
+                "Division": "Morgan Stanley Research",
+                "PersonID": "75e4ad86-9cee-458b-83c2-8fa71ba43bb6",
+                "PhoneNumber": "212 761-1009"
+            },
+            {
+                "CountryCode": "+1",
+                "Email": "Allen.Liu@morganstanley.com",
+                "FamilyName": "Liu",
+                "GivenName": "Allen",
+                "JobRole": "Strategist",
+                "Division": "Morgan Stanley Research",
+                "PersonID": "1012d4e8-f4b7-42c0-ae3a-8fa71ba43bb6",
+                "PhoneNumber": "212 761-6049"
+            }
+        ]
+    },
+    "sector_data": [],
+    "securities": [],
+    "region_data": [
+        {
+            "primaryIndicator": "Yes",
+            "regionType": "NorthAmerica"
+        }
+    ],
+    "regions": [],
+    "subject": "",
+    "synopsis": "The US Liquid Rates Tracker provides detail on the US Treasury Nominal\n                curve, STRIPS, and TIPS.\n            ",
+    "title": "Global Macro Data: US Liquid Rates Tracker",
+    "url": "https://ny.matrix.ms.com/eqr/article/webapp/732cfcd0-7fc3-11ee-8952-7bd1efab7f8a?ch=MarkitHub",
+    "data": "VGhlIFVTIExpcXVpZCBSYXRlcyBUcmFja2VyIHByb3ZpZGVzIGRldGFpbCBvbiB0aGUgVVMgVHJlYXN1cnkgTm9taW5hbCBjdXJ2ZSwgU1RSSVBTLCBhbmQgVElQUy4gPEJSIC8+PGRpdj48cCAvPjwvZGl2Pg=="
+}
